@@ -1,0 +1,9 @@
+1 -> resource to verify the accuracy of human at this data set which is 65% +- 5 :- https://cs230.stanford.edu/projects_winter_2020/reports/32610274.pdf?
+
+2 -> my model have a accuracy of 63.63% with a simple convolutional neural network ..
+
+3 -> I need to try to do some pipe lining with svm, some pretrained models.
+
+4 -> may be use some technique of Digital Image Processing to make it more accurate.
+
+
